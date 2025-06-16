@@ -1,7 +1,8 @@
 name: circle_time_progress
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/JamshaidMallik/circle_time_progress
+repository: https://github.com/JamshaidMallik/circle_time_progress
 
 environment:
   sdk: ^3.8.0
