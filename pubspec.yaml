@@ -1,6 +1,6 @@
 name: circle_time_progress
 description: "A customizable gradient circular progress indicator for Flutter, perfect for fasting timers or similar use cases."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/JamshaidMallik/circle_time_progress
 repository: https://github.com/JamshaidMallik/circle_time_progress
 
