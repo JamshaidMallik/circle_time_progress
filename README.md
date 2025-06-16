@@ -73,7 +73,7 @@ class MyApp extends StatelessWidget {
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JamshaidMallik/circle_time_progress/main/timer_progress1.png" width="250" />
+  <img src="https://raw.githubusercontent.com/JamshaidMallik/circle_time_progress/main/timer_progres1.png" width="250" />
   <img src="https://raw.githubusercontent.com/JamshaidMallik/circle_time_progress/main/timer_progress2.png" width="250" />
 </p>
 
